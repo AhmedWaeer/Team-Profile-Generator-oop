@@ -75,3 +75,7 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 * `getSchool()`
 
 * `getRole()`&mdash;overridden to return `'Intern'`
+
+
+![Capture3](https://user-images.githubusercontent.com/78096972/120643446-7864f780-c476-11eb-93f6-6777d7472539.PNG)
+
